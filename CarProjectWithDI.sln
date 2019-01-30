@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarProjectWithDI", "CarOrojectWithDI\CarProjectWithDI.csproj", "{769B5B5B-9C83-4DE7-AC6D-ED24BAF14C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769B5B5B-9C83-4DE7-AC6D-ED24BAF14C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769B5B5B-9C83-4DE7-AC6D-ED24BAF14C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769B5B5B-9C83-4DE7-AC6D-ED24BAF14C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769B5B5B-9C83-4DE7-AC6D-ED24BAF14C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2776ED6-3C7D-445C-BA9B-52B91AE98B09}
+	EndGlobalSection
+EndGlobal
